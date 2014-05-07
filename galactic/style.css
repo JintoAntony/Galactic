@@ -1,0 +1,72 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #292525;
+}
+body {
+	background-color: #FFFFFF;
+	background-image: url(images/taling.jpg);
+background-repeat:repeat-x;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+padding:0px;
+}
+a:link {
+	color: #292525;
+}
+a:visited {
+	color: #292525;
+}
+a:hover {
+	color: #292525;
+}
+a:active {
+	color: #292525;
+}
+.menu{
+background-image:url(images/menu.jpg);background-repeat:no-repeat;
+}
+.slide{
+background-image:url(images/menu_beforelogo.jpg);background-repeat:no-repeat;
+}
+#white{
+color:#FFFFFF;
+}
+#whitetxt{
+color:#FFFFFF;text-decoration:none;
+}
+.style4 {font-size: 12px; font-weight: bold; }
+.style6 {font-size: 12px; font-weight: bold; color: #40728C; }
+.style7 {font-size: 12px}
+.category{
+background-image:url(images/category.jpg);background-repeat:no-repeat;width:202px;height:31px;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:bold;
+}
+.linkmenu{
+width:202px;height:20px;font-size:12px;
+}
+.red{
+color:#FF0000;
+}
+.popular{
+background-image:url(images/popular.jpg);background-repeat:no-repeat;
+}
+.popular_text{
+font-size:14px;font-weight:bold;color:#FFFFFF;
+}
+.popular_center{
+background-image:url(images/taling_center.jpg);background-repeat:repeat-y;
+}
+.newtovar{
+background-image:url(images/newtovar.jpg);background-repeat:no-repeat;
+}
+.price{
+color:#FF0000;font-size:18px;
+}
+#blue1{
+color:#368DC5;
+}
+.productleft_top{
+margin-right:32px;margin-bottom:22px;float:left;
+}
